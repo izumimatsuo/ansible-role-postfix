@@ -1,0 +1,4 @@
+---
+# defaults file for ansible-role-postfix
+postfix_hostname: 'mail.example.com'
+postfix_networks: '127.0.0.0/8'
