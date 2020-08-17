@@ -1,4 +1,4 @@
-# ansible-role-postfix
+# ansible-role-postfix [![Build Status](https://travis-ci.org/izumimatsuo/ansible-role-postfix.svg?branch=master)](https://travis-ci.org/izumimatsuo/ansible-role-postfix)
 
 CentOS 7 に postfix（送信専用）を導入する ansible role です。
 
